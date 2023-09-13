@@ -1,0 +1,37 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+/* CSS Document */
+
+body {
+    background-color: #D9D9D9;
+}
+
+audio {
+    width: 300px; /* Largura personalizada */
+    padding: 10px; /* Preenchimento personalizado */
+}
+
+.bg-color {
+    background-image: linear-gradient(#070208, #120514);
+    box-shadow: 0px 0px 10px 0px rgba(173, 173, 173, 0.055);
+}
+
+.text-font {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.6em;
+    color: #F2F2F2;
+}
+
+.text-font:hover {
+    color: #cccccc;
+    transition: color 0.3s;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  text-decoration: none;
+}
+
+  
+
