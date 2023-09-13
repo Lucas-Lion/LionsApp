@@ -138,6 +138,11 @@ h5 {
         width: 350px;
     }
 
+    #playlist {
+        width: 350px;
+        margin-bottom: 80px;
+    }
+
     .control-pause {
         font-size: 1em;
         margin-bottom: 5em;
@@ -145,6 +150,14 @@ h5 {
 
     .control {
         margin-bottom: 2em;
+    }
+
+    .legend-music {
+        font-size: 0.8em;
+    }
+
+    .MeB {
+        font-size: 0.8em;
     }
 
 
