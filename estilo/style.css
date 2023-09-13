@@ -96,6 +96,46 @@ h5 {
     color: #afadad;
 }
 
+::-webkit-scrollbar {
+    width: 0;
+}
+
+@media (max-width: 768px) {
+
+    .navbar-toggler {
+       margin-right: 15px;
+    }
+
+    .vr {
+        display: none;
+    }
+
+    ul {
+        text-align: center;
+    }
+
+    .carousel-control-prev,
+    .carousel-control-next {
+        font-size: 0.9em;
+    }
+
+    .text-space {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #carousel-indicators {
+        margin-top: 9em;
+    }
+
+    #frequencia {
+        width: 350px;
+    }
+
+
+}
+
   
 
 
