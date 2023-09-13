@@ -84,8 +84,8 @@ h5 {
 }
 
 .control-pause {
-    font-size: 2.5em;
-    margin-bottom: 1.3em;
+    font-size: 2em;
+    margin-bottom: 1.8em;
 }
 
 .bg-playlist {
@@ -97,13 +97,18 @@ h5 {
 }
 
 ::-webkit-scrollbar {
-    width: 0;
+    width: 0px;
+    height: 0px;
 }
 
 @media (max-width: 768px) {
 
     .navbar-toggler {
        margin-right: 15px;
+    }
+
+    audio {
+        display: none;
     }
 
     .vr {
@@ -131,6 +136,15 @@ h5 {
 
     #frequencia {
         width: 350px;
+    }
+
+    .control-pause {
+        font-size: 1em;
+        margin-bottom: 5em;
+    }
+
+    .control {
+        margin-bottom: 2em;
     }
 
 
