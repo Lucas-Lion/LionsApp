@@ -1,6 +1,6 @@
 # mosby-speedy
 
-O MosbySpeedyApp é um projeto de website desenvolvido para praticar habilidades de desenvolvimento utilizando Bootstrap. Este website foi criado como um espaço pessoal para compartilhar informações sobre o relacionamento entre Lucas e sua namorada. <br>
+O MosbySpeedyApp é um projeto de website desenvolvido para praticar habilidades de desenvolvimento utilizando Bootstrap. Este website foi criado como o intuito de surpreender a minha amada namorada Brida Gramacho. <br>
 
 <strong>GitPages:</strong> <br>
 https://lucas-lion.github.io/MosbySpeedyApp/
