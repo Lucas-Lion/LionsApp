@@ -5,9 +5,6 @@ O MosbySpeedyApp é um projeto de website desenvolvido para praticar habilidades
 <strong>GitPages:</strong> <br>
 https://lucas-lion.github.io/MosbySpeedyApp/
 
-<strong>Descrição</strong> <br>
-Este projeto foi concebido como uma página web simples para demonstrar o uso do framework Bootstrap na criação de um site responsivo e visualmente agradável. Ele contém informações sobre o relacionamento de Lucas e sua namorada, com seções dedicadas a detalhes pessoais, momentos especiais e algumas fotos. <br>
-
 <strong>Tecnologias Utilizadas</strong> <br>
 
 - HTML5
